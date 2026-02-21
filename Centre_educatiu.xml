@@ -17,6 +17,7 @@
       <guid>noticia1</guid>
       <pubDate>Mon, 23 Feb 2026 09:00:00 GMT</pubDate>
     </item>
+    
 
     <!-- Noticia 2 -->
     <item>
@@ -39,4 +40,5 @@
     </item>
 
   </channel>
+
 </rss>
