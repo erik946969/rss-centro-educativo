@@ -24,6 +24,14 @@
       <link>https://mi-centro-educativo.com/noticia2.html</link>
       <pubDate>Sat, 22 Feb 2026 11:30:00 GMT</pubDate>
     </item>
+    <item>
+  <title>Taller de programación web</title>
+  <description>El centro organiza un taller práctico de HTML y CSS para alumnos de informática.</description>
+  <link>https://mi-centro-educativo.com/noticia3.html</link>
+  <author>Erik Lopez</author>
+  <category>Educación</category>
+  <pubDate>Sun, 23 Feb 2026 10:00:00 GMT</pubDate>
+</item>
 
   </channel>
 </rss>
