@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- RSS creado para la tarea GS_0373 -->
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 
     <title>Noticias del Centro Educativo</title>
@@ -9,23 +9,24 @@
     <description>Canal RSS con avisos y noticias para los alumnos del centro.</description>
     <language>es</language>
 
+    <atom:link href="https://erik946969.github.io/rss-centro-educativo/Centre_educatiu.xml" rel="self" type="application/rss+xml" />
+
     <!-- Noticia 1 -->
     <item>
       <title>Inicio del nuevo curso DAM</title>
       <description>Comienza el nuevo curso de Desarrollo de Aplicaciones Multiplataforma.</description>
       <link>https://mi-centro-educativo.com/noticia1.html</link>
-      <guid>noticia1</guid>
-      <pubDate>Mon, 23 Feb 2026 09:00:00 GMT</pubDate>
+      <guid isPermaLink="false">noticia1</guid>
+      <pubDate>Mon, 24 Feb 2025 09:00:00 GMT</pubDate>
     </item>
-    
 
     <!-- Noticia 2 -->
     <item>
       <title>Jornada de puertas abiertas</title>
       <description>El centro organiza una jornada para futuros estudiantes.</description>
       <link>https://mi-centro-educativo.com/noticia2.html</link>
-      <guid>noticia2</guid>
-      <pubDate>Tue, 24 Feb 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="false">noticia2</guid>
+      <pubDate>Tue, 25 Feb 2025 11:30:00 GMT</pubDate>
     </item>
 
     <!-- Noticia 3 -->
@@ -35,10 +36,9 @@
       <link>https://mi-centro-educativo.com/noticia3.html</link>
       <author>erik@email.com (Erik Lopez)</author>
       <category>Educación</category>
-      <guid>noticia3</guid>
-      <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
+      <guid isPermaLink="false">noticia3</guid>
+      <pubDate>Wed, 26 Feb 2025 10:00:00 GMT</pubDate>
     </item>
 
   </channel>
-
 </rss>
