@@ -12,27 +12,30 @@
     <!-- Noticia 1 -->
     <item>
       <title>Inicio del nuevo curso DAM</title>
-      <description>Comienza el nuevo curso de Desarrollo de Aplicaciones Multiplataforma con nuevos módulos y profesores.</description>
+      <description>Comienza el nuevo curso de Desarrollo de Aplicaciones Multiplataforma.</description>
       <link>https://mi-centro-educativo.com/noticia1.html</link>
-      <pubDate>Fri, 21 Feb 2026 09:00:00 GMT</pubDate>
+      <guid>noticia1</guid>
+      <pubDate>Mon, 23 Feb 2026 09:00:00 GMT</pubDate>
     </item>
 
     <!-- Noticia 2 -->
     <item>
       <title>Jornada de puertas abiertas</title>
-      <description>El centro organiza una jornada para futuros estudiantes interesados en ciclos formativos.</description>
+      <description>El centro organiza una jornada para futuros estudiantes.</description>
       <link>https://mi-centro-educativo.com/noticia2.html</link>
-      <pubDate>Sat, 22 Feb 2026 11:30:00 GMT</pubDate>
+      <guid>noticia2</guid>
+      <pubDate>Tue, 24 Feb 2026 11:30:00 GMT</pubDate>
     </item>
 
-    <!-- Noticia 3 (mejora del canal RSS) -->
+    <!-- Noticia 3 -->
     <item>
       <title>Taller de programación web</title>
-      <description>El centro organiza un taller práctico de HTML y CSS para alumnos de informática.</description>
+      <description>Taller práctico de HTML y CSS para alumnos.</description>
       <link>https://mi-centro-educativo.com/noticia3.html</link>
-      <author>Erik Lopez</author>
+      <author>erik@email.com (Erik Lopez)</author>
       <category>Educación</category>
-      <pubDate>Sun, 23 Feb 2026 10:00:00 GMT</pubDate>
+      <guid>noticia3</guid>
+      <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
     </item>
 
   </channel>
